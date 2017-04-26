@@ -1,4 +1,4 @@
 # reddit-top-wallpapers
 
-use
+used
 >reddit.js , lightbox
